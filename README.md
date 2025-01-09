@@ -1,6 +1,4 @@
-Here's a more detailed and engaging description for your GitHub repository:
 
----
 
 # **Prescripto**  
 
