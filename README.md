@@ -33,7 +33,7 @@ Prescripto is a full-stack web application that enables patients to book appoint
    ```
 4. Start the backend server:
    ```sh
-   npm start
+   npm run server
    ```
 5. Start the frontend server:
    ```sh
