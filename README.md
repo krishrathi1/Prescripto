@@ -2,7 +2,7 @@
 
 Prescripto is a full-stack web application that enables patients to book appointments and consult with doctors anytime. With real-time interaction, secure authentication, and efficient appointment management, it simplifies healthcare access. Built with React, Node.js, and MongoDB, Prescripto ensures a seamless and user-friendly experience for both patients and doctors.
 
-## Features
+## Features 
 - **Patient Portal**: Users can register, search for doctors, and book appointments.
 - **Doctor Portal**: Doctors can manage appointments, interact with patients, and provide consultations.
 - **Admin Dashboard**: Administrators can manage users, doctors, and overall platform activities.
