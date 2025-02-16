@@ -1,5 +1,5 @@
 # Prescripto - Online Doctor Consultation Platform
-
+ 
 Prescripto is a full-stack web application that enables patients to book appointments and consult with doctors anytime. With real-time interaction, secure authentication, and efficient appointment management, it simplifies healthcare access. Built with React, Node.js, and MongoDB, Prescripto ensures a seamless and user-friendly experience for both patients and doctors.
 
 ## Features 
