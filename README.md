@@ -9,7 +9,7 @@ Prescripto is a full-stack web application that enables patients to book appoint
 - **Real-time Interaction**: Patients can chat with doctors for quick medical advice.
 - **Secure Authentication**: User authentication with secure login and role-based access control.
 - **Appointment Management**: A streamlined booking system with notifications.
-
+ 
 ## Tech Stack 
 - **Frontend**: React, HTML, CSS, JavaScript    
 - **Backend**: Node.js, Express.js
