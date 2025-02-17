@@ -4,7 +4,7 @@ Prescripto is a full-stack web application that enables patients to book appoint
 
 ## Features 
 - **Patient Portal**: Users can register, search for doctors, and book appointments.
-- **Doctor Portal**: Doctors can manage appointments, interact with patients, and provide consultations.
+- **Doctor Portal**: Doctors can manage appointments, interact with patients, and provide consultations. 
 - **Admin Dashboard**: Administrators can manage users, doctors, and overall platform activities.
 - **Real-time Interaction**: Patients can chat with doctors for quick medical advice.
 - **Secure Authentication**: User authentication with secure login and role-based access control.
