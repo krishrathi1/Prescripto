@@ -16,7 +16,7 @@ Prescripto is a full-stack web application that enables patients to book appoint
 - **Database**: MongoDB  
 - **Authentication**: JWT-based authentication
 - **Hosting**: Deployed using cloud services (e.g., AWS, Vercel, or Firebase)
-
+ 
 ## Installation
 1. Clone the repository:
    ```sh
